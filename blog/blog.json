@@ -15,7 +15,7 @@
                     "blog/blog.css"
                 ],
                 "include-repo": {
-                    "name": "Agefiph-Customizer"
+                    "name": "agefiph-customisation"
                 }
             },
             "path": "blogs",
