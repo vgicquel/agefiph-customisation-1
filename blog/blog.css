@@ -1,1 +1,36 @@
 
+ 
+/* Blog : Taille et couleur titres des entrées */
+.lotusui30 .lotusTable h4 a{
+    color: #FF7010 !important;
+    font-size: 1em !important;
+}
+/* Espace entre titre/auteur et contenu du blog */
+.blog .entryContentContainer {
+    margin-top: 40px !important;
+    margin-bottom: 30px !important;
+}
+/* barre horizontale */
+.lotusui30_layout .lotusContent .lotusTable tr td.eventDiv, .lotusui30_layout .lotusContent .lotusTable tr td:first-child {
+    border-bottom: 1px solid #EAEAEA !important;
+    width: 500px;
+    padding-bottom: 0px !important;
+    padding-top: 20px !important;
+}
+/* Blog entry : taille et couleur titre entrée */
+.lotusui30 .lotusTable h4 {
+    color: #FF7010 !important;
+    font-size: 18px !important;
+}
+/* Espace entre modifier et commentaires */
+.lotusui30 .lotusInlinelist {
+    margin-top: 30px !important;
+}
+/* Test element */
+élément {
+    border-top: 1px solid #EAEAEA !important;   
+}
+/* Taille des boutons Ajouter un commentaire, Editer et Autres actions*/
+.lotusui30 a.lotusAction {
+    font-size: 0.9em !important;
+}
