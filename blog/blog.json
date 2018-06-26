@@ -12,10 +12,18 @@
             "type": "com.ibm.customizer.ui",
             "payload": {
                 "include-files": [
-                    "blog/blog.css"
+                    "blog/blog.css",
+                    "blog/commonTools.js",
+                    "blog/blog.js"
                 ],
                 "include-repo": {
                     "name": "agefiph-customisation"
+                },
+                "match": {
+                    "user-name": [
+                        "Mathilde Legouais",
+                        "Thierry Suchet"
+                    ]
                 }
             },
             "path": "blogs",
