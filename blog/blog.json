@@ -19,14 +19,6 @@
                 "include-repo": {
                     "name": "agefiph-customisation"
                 },
-                "match": {
-                    "user-name": [
-                        "Mathilde Legouais",
-                        "Thierry Suchet",
-                        "Yves Nonat",
-                        "Fabrice Allouche"
-                    ]
-                }
             },
             "path": "blogs",
             "application": "Blog"
